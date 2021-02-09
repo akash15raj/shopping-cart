@@ -1,3 +1,7 @@
+html{
+    background-color: lightgray;
+}
+
 .box{
     display: flex;
     justify-content: space-between;
